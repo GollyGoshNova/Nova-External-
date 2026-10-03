@@ -1,0 +1,80 @@
+{
+    "FakeDataModel_Pointer":               "0x8b54980",
+    "FakeDataModel_RealDataModel":         "0x1f8",
+
+    "DataModel_Workspace":                 "0x150",
+    "DataModel_GameLoaded":                "0x5d0",
+    "DataModel_PlaceId":                   "0x188",
+    "DataModel_ScriptContext":             "0x440",
+
+    "Instance_ChildrenStart":             "0x78",
+    "Instance_ChildrenEnd":               "0x8",
+    "Instance_NameContainer":             "0x70",
+    "Instance_Name":                      "0x8",
+    "Instance_ClassDescriptor":           "0x18",
+    "Instance_ClassName":                 "0x8",
+    "Instance_Parent":                    "0x68",
+
+    "Player_ModelInstance":               "0x288",
+    "Player_LocalPlayer":                 "0x120",
+    "Player_Team":                        "0x2c8",
+    "Player_TeamColor":                   "0x3a0",
+    "Player_UserId":                      "0xc0",
+    "Player_DisplayName":                 "0x128",
+    "Player_CameraMode":                  "0x360",
+    "Player_MaxZoomDistance":             "0x358",
+
+    "Humanoid_Health":                    "0x180",
+    "Humanoid_MaxHealth":                 "0x198",
+    "Humanoid_HumanoidRootPart":          "0x458",
+    "Humanoid_Walkspeed":                 "0x1c0",
+    "Humanoid_JumpPower":                 "0x194",
+    "Humanoid_HipHeight":                 "0x184",
+    "Humanoid_MoveDirection":             "0x130",
+    "Humanoid_HumanoidState":             "0x8a0",
+    "Humanoid_IsWalking":                 "0xa1f",
+    "Humanoid_Sit":                       "0x1cd",
+    "Humanoid_PlatformStand":             "0x1cc",
+
+    "BasePart_Primitive":                 "0x178",
+    "BasePart_Transparency":              "0x120",
+    "BasePart_CastShadow":                "0x125",
+
+    "Primitive_Position":                 "0xd4",
+    "Primitive_Rotation":                 "0xb0",
+    "Primitive_AssemblyLinearVelocity":   "0xe0",
+    "Primitive_AssemblyAngularVelocity":  "0xec",
+    "Primitive_Size":                     "0x1bc",
+    "Primitive_Flags":                    "0x1b6",
+
+    "PrimitiveFlags_Anchored":            "0x2",
+    "PrimitiveFlags_CanCollide":          "0x8",
+
+    "Workspace_CurrentCamera":            "0x4a8",
+    "Workspace_DistributedGameTime":      "0x4c8",
+    "Workspace_ReadOnlyGravity":          "0x9b8",
+
+    "Camera_Position":                    "0xec",
+    "Camera_Rotation":                    "0xc8",
+    "Camera_FieldOfView":                 "0x130",
+    "Camera_ViewportSize":                "0x2bc",
+    "Camera_CameraType":                  "0x128",
+    "Camera_CameraSubject":               "0xb8",
+
+    "VisualEngine_Pointer":               "0x858d208",
+    "VisualEngine_ViewMatrix":            "0x1b0",
+    "VisualEngine_RenderView":            "0xc30",
+
+    "TaskScheduler_Pointer":              "0x8aff2a0",
+    "TaskScheduler_MaxFPS":               "0xb0",
+    "TaskScheduler_JobStart":             "0xc8",
+    "TaskScheduler_JobEnd":               "0xd0",
+
+    "Lighting_Brightness":                "0x108",
+    "Lighting_ClockTime":                 "0xb8",
+    "Lighting_FogEnd":                    "0x11c",
+    "Lighting_FogStart":                  "0x120",
+    "Lighting_GlobalShadows":             "0x134",
+
+    "Misc_StringLength":                  "0x10"
+}
