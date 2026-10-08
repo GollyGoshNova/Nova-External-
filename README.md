@@ -8,7 +8,7 @@ OR JUST pip install pymem pywin32 pygame
 
 ⚠️ This Will Never Get Detected Since It Doesnt Tamper With The Roblox Application Feel Free To Use On Main ⚠️
 
-Please Do Not Pirate My Own External 😭😭
+Please Do Not Skid My External 😭😭
 
 I spent On This atleast 200+ hours in VSC 😭
 
