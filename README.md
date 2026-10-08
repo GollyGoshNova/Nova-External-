@@ -1,3 +1,4 @@
+⚠️ U NEED TO UPDATE THE OFFSETS I USED THESE: https://offsets.imtheo.lol/ ⚠️
 
 ⚠️FOR THIS PROJECT U NEED THE FOLLOWING LIBRARIES: ⚠️
 pymem
